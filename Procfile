@@ -1,1 +1,1 @@
-web: sh setup.sh && stramlit run script.js
+
