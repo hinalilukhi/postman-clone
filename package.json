@@ -1,7 +1,6 @@
 {
   "name": "restman",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "snowpack dev"
@@ -14,5 +13,15 @@
     "bootstrap": "^5.2.0",
     "pretty-bytes": "^6.0.0",
     "snowpack": "^3.8.8"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hinalilukhi/restman.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hinalilukhi/restman/issues"
+  },
+  "homepage": "https://github.com/hinalilukhi/restman#readme",
+  "description": ""
 }
