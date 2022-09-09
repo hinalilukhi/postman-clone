@@ -3,8 +3,6 @@ import "bootstrap/dist/css/bootstrap.min.css"
 import axios from "axios"
 import prettyBytes from "pretty-bytes";
 
-// import { updateResponseEditor } from "./setupEditor";
-
 const form=document.querySelector("[data-form]")
 const queryParamsContainer = document.querySelector("[data-query-params]")
 const requestHeadersContainer = document.querySelector("[data-request-headers]")
@@ -134,8 +132,6 @@ function keyValuePairsToObjects(container) {
 }
 }
 
-
-
-  } 
+} 
 
   
