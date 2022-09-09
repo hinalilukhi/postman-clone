@@ -11,17 +11,10 @@
   "dependencies": {
     "axios": "^0.27.2",
     "bootstrap": "^5.2.0",
-    "pretty-bytes": "^6.0.0",
+    "pretty-bytes": "^6.0.0"
+  },
+  "devDependencies": {
     "snowpack": "^3.8.8"
-  },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/hinalilukhi/restman.git"
-  },
-  "bugs": {
-    "url": "https://github.com/hinalilukhi/restman/issues"
-  },
-  "homepage": "https://github.com/hinalilukhi/restman#readme",
-  "description": ""
+  }
+
 }
