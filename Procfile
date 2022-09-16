@@ -1,1 +1,0 @@
-web: snowpack dev 
