@@ -4,8 +4,7 @@
   "main": "script.js",
   "scripts": {
     "start": "snowpack dev",
-    "build": "snowpack build",
-    "heroku-postbuild":"NPM_CONFIG_PRODUCTION=false"
+    "build": "snowpack build"
   },
   "keywords": [],
   "author": "",
@@ -17,8 +16,5 @@
   },
   "devDependencies": {
     "snowpack": "^3.8.8"
-  },
-  "repository": {
-    "type": "git"
   }
 }
